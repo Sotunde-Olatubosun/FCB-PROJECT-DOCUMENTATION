@@ -21,6 +21,6 @@ WHERE CONDITION = MET
 |--------|-------|--------|
 |Data1|Data2|Data3|
 
-![](061312.jpg)
+![](SmartSelect_20240527-042337_Bible.jpg)
 **edited by Bosun**
 
