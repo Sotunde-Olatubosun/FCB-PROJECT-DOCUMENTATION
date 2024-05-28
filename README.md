@@ -4,7 +4,6 @@ This Data Analysis project aims to generate insight into the sales perormance of
 ## Data Sources
 the primary source of Data is CSV. And this is an open source data that can be freely downloaded from an open source Online such as Kaggle or FRED or any other data repository.
 ## Tools Used
-Ms Excel [download here](www.microsoft.com)
-Microsoft powerBi[download here](www.microsoft.com/en-us/power-platform/products/power-bi)
-
-Python
+•Ms Excel [download here](www.microsoft.com)
+•Microsoft powerBi[download here](www.microsoft.com/en-us/power-platform/products/power-bi)
+•Python
