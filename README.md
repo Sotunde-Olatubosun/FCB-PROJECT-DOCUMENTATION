@@ -14,8 +14,10 @@ the primary source of Data is CSV. And this is an open source data that can be f
 Google Query sheet
 SELECT * FROM TABLES1
 WHERE CONDITION = MET
+|Heading 1 | Heading 2 | Heading 3|
+|---------| ---------|---------|
+| Data 1 | Data 2 | Data 3|
 
-
-**edited by Bosun**
-![](SmartSelect_20240527-061312_Gmail.jpg)
+**edited by Bosun
+(061312.jpg)
 ```
