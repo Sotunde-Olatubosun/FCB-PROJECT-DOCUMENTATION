@@ -16,8 +16,8 @@ SELECT * FROM TABLES1
 WHERE CONDITION = MET
 
 |Heading1|Heading2|Heading3|
-|---------|---------|---------|
-|Data1 |Data2|Data3|
+|---------|---------|--------|
+|Data1|Data2|Data3|
 
 
 **edited by Bosun
