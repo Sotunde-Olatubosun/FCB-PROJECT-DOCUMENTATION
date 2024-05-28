@@ -6,7 +6,7 @@ the primary source of Data is CSV. And this is an open source data that can be f
 ## Tools Used
 •Ms Excel [download here](www.microsoft.com)
 ---
-•Microsoft PowerBi[download here](www.microsoft.com/en-us/power-platform/products/power-bi)
+•Microsoft PowerBi [download here](www.microsoft.com/en-us/power-platform/products/power-bi)
 ---
 •Python
 ---
