@@ -12,8 +12,9 @@ the primary source of Data is CSV. And this is an open source data that can be f
 ---
 ```
 Google Query sheet
-SELECT * FROM TABLES
+SELECT * FROM TABLES1
 WHERE CONDITION = MET
 
 
 **edited by Bosun**
+```
