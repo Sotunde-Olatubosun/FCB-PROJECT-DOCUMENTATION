@@ -10,4 +10,10 @@ the primary source of Data is CSV. And this is an open source data that can be f
 ---
 •Python
 ---
-**Bosun**
+```
+Google Query sheet
+SELECT * FROM TABLES
+WHERE CONDITION = MET
+
+
+**edited by Bosun**
