@@ -1,26 +1,21 @@
 # FCB-PROJECT-DOCUMENTATION
 ## Project Outline 
-This Data Analysis project aims to generate insight into the sales perormance of the E-commerce project over the past year. By analysing the various parameters in the data received we seek to gather enough insight to make reasonable decision which then enable us to tell compeling stories around our data from the insight gotten and to know the best performance from our data.
+This Data Analysis project aims to generate insight into our Logistics safety Clearance leading to traansportation analysis performance for the year 2020. By analysing the various parameters in the data received we seek to gather enough insight to make reasonable decision which then enable us to tell compeling stories around our data from the insight gotten and to know the best performance from our data which users can interact with to get their own Logistics Safety clearance to know how to apply to transport goods, passangers.
 ## Data Sources
-the primary source of Data is CSV. And this is an open source data that can be freely downloaded from an open source Online such as Kaggle or FRED or any other data repository.
+The primary source of Data is xsls. And this is an open source data that we are devloping for users to get in-touch with for decision making strategy to apply logistics, we are open to working with partners in collaborative businesses for insights and more years On-Demand.
+
 ## Tools Used
-•Ms Excel [download here](www.microsoft.com)
+•Ms Excel [Download here](www.microsoft.com)
 ---
-•Microsoft PowerBi [download here](www.microsoft.com/en-us/power-platform/products/power-bi)
+
+## Data Visualization Tool
+•Microsoft PowerBi [Download here](www.microsoft.com/en-us/power-platform/products/power-bi)
 ---
-•Python
----
-```
-Google Query sheet
-SELECT * FROM TABLES1
-WHERE CONDITION = MET
 
-```
+![] 
 
-|Heading1|Heading2|Heading3|
-|--------|-------|--------|
-|Data1|Data2|Data3|
 
-![](BIRTHDAY.png)
-**edited by Bosun**
+
+
+
 
