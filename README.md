@@ -38,12 +38,12 @@ This model easily validates the process of this project as we simulate through:
  ## INSIGHTS
    |Abuja population is 1,030,000|                       |
    |---------------------------------------------------|------------------------|
-     | Transportation by Road Available in Abuja: YES | Accidents by Road in Nigeria occurred 3 times
-     |---------------------------------------------------|------------------------|
-    | Transportation by Air Available in Abuja: YES |  Accidents by Air in Nigeria occurred 2 times
+   | Transportation by Road Available in Abuja: YES | Accidents by Road in Nigeria occurred 3 times
+   |---------------------------------------------------|------------------------|
+   | Transportation by Air Available in Abuja: YES |  Accidents by Air in Nigeria occurred 2 times
    |---------------------------------------------------|------------------------|
    | Transportation by Water Available in Abuja: NO |  Accidents by Water in Nigeria occurred 0 times
    |---------------------------------------------------|------------------------|
-     | Transportation by Rail Available in Abuja: YES |  Accidents by Rail in Nigeria occurred 3 times
+   | Transportation by Rail Available in Abuja: YES |  Accidents by Rail in Nigeria occurred 3 times
 
 
