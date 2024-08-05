@@ -4,29 +4,27 @@ This Data Analysis project aims to generate insight into our Logistics safety Cl
 # Data Description
 The Datasets include the following fields:
 
--Region:
+-Region: Statistics for State insight on Transportation  
 
--Transport Mode:
+-Transport by Air: Binary Survey of Air Transportation per Region
+-Transport by Road: Binary Survey of Road Transportation per Region
+-Transport by Water: Binary Survey of Water Transportation per Region
+-Transport by Rail: Binary Survey of Rail Transportation per Region
 
--Population:
+-Population: Statistics for Number of Individuals in Region & Country
 
--Yearly Revenue:
+-Yearly Revenue: Statistics for Profit generated from Transportation in Region & Country
 
--Accident in a year:
+-Accident by Road: Statistics for Accidents by Road in Region & Country
+-Accident by Air: Statistics for Accidents by Air in Region & Country
+-Accident by Water: Statistics for Accidents by Water in Region & Country
+-Accident by Rail: Statistics for Accidents by Rail in Region & Country
 
--Bad security percentage:
+-Usage by Road: Statistics for Road transportation Usage in Region & Country
+-Usage by Air: Statistics for Air transportation Usage in Region & Country
+-Usage by Water: Statistics for Water transportation usage in Region & Country
+-Usage by Rail: Statistics for Rail transportation in Region & Country
 
--Logistic: 
-
--Logistic Value:
-
--GovernmentTax:
-
--Cost of Logistics:
-
--Transport Users:
-
--Logistical:
 
 
 ## Data Sources
