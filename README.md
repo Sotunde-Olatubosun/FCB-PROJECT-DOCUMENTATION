@@ -7,8 +7,11 @@ The Datasets include the following fields:
 -Region: Statistics for State insight on Transportation  
 
 -Transport by Air: Binary Survey of Air Transportation per Region
+
 -Transport by Road: Binary Survey of Road Transportation per Region
+
 -Transport by Water: Binary Survey of Water Transportation per Region
+
 -Transport by Rail: Binary Survey of Rail Transportation per Region
 
 -Population: Statistics for Number of Individuals in Region & Country
@@ -16,13 +19,19 @@ The Datasets include the following fields:
 -Yearly Revenue: Statistics for Profit generated from Transportation in Region & Country
 
 -Accident by Road: Statistics for Accidents by Road in Region & Country
+
 -Accident by Air: Statistics for Accidents by Air in Region & Country
+
 -Accident by Water: Statistics for Accidents by Water in Region & Country
+
 -Accident by Rail: Statistics for Accidents by Rail in Region & Country
 
 -Usage by Road: Statistics for Road transportation Usage in Region & Country
+
 -Usage by Air: Statistics for Air transportation Usage in Region & Country
+
 -Usage by Water: Statistics for Water transportation usage in Region & Country
+
 -Usage by Rail: Statistics for Rail transportation in Region & Country
 
 
