@@ -48,6 +48,14 @@ Microsoft PowerBi [Download here](www.microsoft.com/en-us/power-platform/product
 - Also used for transforming the datasets to a Data-informing-insight
  
 # Data Visualization 
+## Data Manipulation
+Data Transformation:
+-Data Types and Formatting: Ensured all data fields were assigned the correct data types, with numerical fields formatted as currencies where appropriate, and date fields set to date format.
+-Sorting: Sorted the dataset by the Date column to organize transactions chronologically.
+
+ Data Cleaning: 
+-Checked for Spelling Errors, Duplicate Values, and Blank Cells: Ensured data quality by correcting any spelling errors, removing duplicate entries, and addressing missing values
+
 ## Dashboard Overview
 ![](pic1.PNG)
 ## •General Data Visualization for Nigeria Transport System  
