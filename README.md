@@ -63,13 +63,13 @@ The Dashboard above is the Model which tells for the insight on Nationwide Trans
 1. Build it and see if it works out?
 2. Simulate current, expanded operations( many other issues along the way can also be investigated and evaluated cheaply and quickly).
    ## INSIGHTS
-   |Nigeria population is 241,786,715 |                       |
+    |Nigeria population is 5,600,000 |72581760                       |
    |---------------------------------------------------|------------------------|
-     | Transportation by Road Available in 37States  | Accidents by Road in Nigeria occurred 65 times
+     | Transportation by Road(States) 3245871  | Accidents by Road in Ondo occurred 100 times
      |---------------------------------------------------|------------------------|
-    | Transportation by Air Available in 25States |  Accidents by Air in Nigeria occurred 9 times
+    | Transportation by Air(States) 400000 |  Accidents by Air in Nigeria occurred 0 times
    |---------------------------------------------------|------------------------|
-   | Transportation by Water Available in 13States |  Accidents by Water in Nigeria occurred 240 times
+   | Transportation by Water(States) is unavailable |  Accidents by Water in Nigeria occurred 0 times
    |---------------------------------------------------|------------------------|
      | Transportation by Rail Available in 18States |  Accidents by Rail in Nigeria occurred 65 times
   ---
