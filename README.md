@@ -71,7 +71,14 @@ The Dashboard above is the Model which tells for the insight on Nationwide Trans
    |---------------------------------------------------|------------------------|
    | Transportation by Water(States) is unavailable |  Accidents by Water in Nigeria occurred 0 times
    |---------------------------------------------------|------------------------|
-     | Transportation by Rail Available in 18States |  Accidents by Rail in Nigeria occurred 65 times
+          | COST OF TRANSPORTATION | COST OF TRANSPORTATION
+   |---------------------------------------------------|------------------------|
+     | Transportation by Air is on a Highest scale of Cost |  very expensive
+   |---------------------------------------------------|------------------------|
+    | Transportation by Road is on a Moderate scale of Cost |  Affordable
+   |---------------------------------------------------|------------------------|
+    | Transportation by Water is on a Mildly high scale of Cost |  Mildly Affordable
+   |---------------------------------------------------|------------------------|
   ---
 ![](pic4.PNG)
 ## •Distinctive Data Visualization for Nigeria Transport System  
