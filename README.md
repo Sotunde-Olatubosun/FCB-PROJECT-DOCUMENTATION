@@ -88,14 +88,6 @@ This model easily validates the process of this project as we simulate through:
 2. Distinctive Data Visualization for Nigerian Transport System  
 
  ## INSIGHTS
-   |Abuja population is 1,030,000|                       |
-   |---------------------------------------------------|------------------------|
-   | Transportation by Road Available in Abuja: YES | Accidents by Road in Abuja occurred 3 times
-   |---------------------------------------------------|------------------------|
-   | Transportation by Air Available in Abuja: YES |  Accidents by Air in Abuja occurred 2 times
-   |---------------------------------------------------|------------------------|
-   | Transportation by Water Available in Abuja: NO |  Accidents by Water in Abuja occurred 0 times
-   |---------------------------------------------------|------------------------|
-   | Transportation by Rail Available in Abuja: YES |  Accidents by Rail in Abuja occurred 3 times
+   
 
 
