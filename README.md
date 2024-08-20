@@ -59,7 +59,7 @@ Data Transformation:
 
 ## Dashboard Overview
 ![](pic1.PNG)
-## •General Data Visualization for Nigeria Transport System  
+## •General Data Visualization for South Western Nigeria Transport System  
 The Dashboard above is the Model which tells for the insight on South Western states transportation insights in Nigeria(Road, Rail, Air, and Water) Therefore models are chosen to represent the operations and working of a particular system of interest. One purpose of modelling is to enable the analyst predict the effect that certain changes will have on a system. Modelling is the process of representing a system with a specific tool to study its behavior. Simulation can then be a good alternative concept to evaluate the system behavior very close to reality usually through a computer. Simulation entails the following:
 1. Build it and see if it works out?(Gather Actionable data in the Database)
 2. Simulate current, expanded operations( many other issues along the way can also be investigated and evaluated cheaply and quickly).
