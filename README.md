@@ -67,11 +67,11 @@ The Dashboard above is the Model which tells for the insight on South Western st
    |---------------------------------------------------|------------------------|
      | Transportation by Road(States) 3245871  | Accidents by Road in Ondo occurred 100 times
      |---------------------------------------------------|------------------------|
-    | Transportation by Air(States) 400000 |  Accidents by Air in Nigeria occurred 0 times
+    | Transportation by Air(States) 400000 |  Accidents by Air in Ondo occurred 0 times
    |---------------------------------------------------|------------------------|
-   | Transportation by Water(States) is unavailable |  Accidents by Water in Nigeria occurred 0 times
+   | Transportation by Water(States) is unavailable |  Accidents by Water in Ondo occurred 0 times
    |---------------------------------------------------|------------------------|
-          | COST OF TRANSPORTATION | COST OF TRANSPORTATION
+          | COST OF TRANSPORTATION | COST OF TRANSPORTATION |
    |---------------------------------------------------|------------------------|
      | Transportation by Air is on a Highest scale of Cost |  very expensive
    |---------------------------------------------------|------------------------|
