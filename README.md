@@ -35,7 +35,8 @@ The Datasets include the following fields:
 -Usage by Rail: Statistics for Rail transportation in Region & Country
 
 
-
+# Data Visualization 
+## Methodology
 ## Data Sources
 The primary source of Data is xsls. And this is a closed source data that we are developing for our users to get in-touch with as the Data-informing Insight for trends in order to apply logistics, the Datasets are being modelled and Simulation occurs in the Data Visualisation tool used. I am open to working with partners in collaborative businesses for insights and more years On-Demand.
 
@@ -47,7 +48,7 @@ Microsoft PowerBi [Download here](www.microsoft.com/en-us/power-platform/product
 - Was used by me to Visualize the Data
 - Also used for transforming the datasets to a Data-informing-insight
  
-# Data Visualization 
+
 ## Data Manipulation
 Data Transformation:
 -Data Types and Formatting: Ensured all data fields were assigned the correct data types, with numerical fields formatted as currencies where appropriate, and date fields set to date format.
