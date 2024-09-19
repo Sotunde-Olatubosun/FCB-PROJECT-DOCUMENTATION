@@ -70,7 +70,7 @@ The Dashboard above is the Model which tells for the insight on South Western st
      |---------------------------------------------------|------------------------|
     | Transportation by Air(States) 400000 |  Accidents by Air in Ondo occurred 0 times
    |---------------------------------------------------|------------------------|
-   | Transportation by Water(States) is unavailable |  Accidents by Water in Ondo occurred 0 times
+   | Transportation by Water(States) is unavailable |  Accidents by Water in Ondo occurred 8 times
    |---------------------------------------------------|------------------------|
           | COST OF TRANSPORTATION | COST OF TRANSPORTATION |
    |---------------------------------------------------|------------------------|
